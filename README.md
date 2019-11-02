@@ -10,11 +10,11 @@ Download:
 ------
 * Quality Armor Resource Pack
 
-[Download]()
+[Download](https://github.com/MrGalaxy/Iguana-Gaming-Resource-pack/releases/download/1.0/QualityArmoryV2.0.2.zip)
 
 * Magic Resource Pack 
 
-[Download]()
+[Download](https://github.com/MrGalaxy/Iguana-Gaming-Resource-pack/releases/download/1.0/Magic-RP-8-1.zip)
 
 ## Credits
 
