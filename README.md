@@ -1,11 +1,14 @@
 # Iguana Gaming Resource pack
 This is a resource pack is for use on the Iguana Gaming minecraft server.
 
-How to install:
+How to install: (PC)
 ------
 
-Press `Windows key+R`. This will open up the run menu. In here type `%appdata%` and press enter. This will bring up your appdata folder. Open the `.minecraft` folder. Inside you will see a folder called `resource packs`. Open that folder and place in the `.zip` files. Then when you open your game. In the main menu you will see options. Click this and then click Resource packs. Click the arrow over both resource packs to move them to the right side where they will automatically be read as needed.
+Download the two resource packs below in the download section. Press `Windows key`+ `R` to open the run menu. Type `%appdata%` and press `enter` to bring up your appdata folder. Open the `.minecraft` folder, then the resource packs folder. 
 
+In a separate window, open your Downloads folder to find the two `.zip` files downloaded below. Make sure Minecraft is not running, then drag the two `.zip` files from your download folder into the resource packs folder. 
+
+When you are on the server open your main menu, select Options, then Resource Packs. Click the arrow over both resource packs to move them to the right side where they will automatically be read as needed.
 
 Download:
 ------
