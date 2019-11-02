@@ -1,17 +1,24 @@
 # Iguana Gaming Resource pack
 This is a resource pack is for use on the Iguana Gaming minecraft server.
 
-# Quality Armor Resource Pack Made by:
-QualityGuns 2.0.2. Created by Zombie_Striker. Some assets created by Hunajameloni.
+How to install:
+------
 
-# Magic Resource Pack Made by:
+Go download both `Quality Armor` and `Magic` Resource Packs from here. VV The just put both zip files in your `.minecraft\resourcepacks`.
 
-This RP is meant for use with the Magic Bukkit plugin:
+Download:
+------
+* Quality Armor Resource Pack
 
-https://github.com/elBukkit/MagicPlugin/wiki
+[Download]()
 
-## RP Credits
+* Magic Resource Pack 
 
+[Download]()
+
+## Credits
+
+* Magic Resource Pack
 - 3D Artists: 
   - Dr00bles (play.potterworldmc.com)
   - Lix3nn (https://sketchfab.com/Lix3nn/models)
@@ -22,3 +29,7 @@ https://github.com/elBukkit/MagicPlugin/wiki
 - Sound Effects:
   - Dr00bles
   - S-Toad (Flute samples for Ocarina)
+
+* Quality Armor Resource Pack
+  - Created by Zombie_Striker. 
+  - Some assets created by Hunajameloni.
