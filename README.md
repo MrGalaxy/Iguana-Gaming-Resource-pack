@@ -4,17 +4,18 @@ This is a resource pack is for use on the Iguana Gaming minecraft server.
 How to install:
 ------
 
-Go download both `Quality Armor` and `Magic` Resource Packs from here. VV The just put both zip files in your `.minecraft\resourcepacks`.
+Press `Windows key+R`. This will open up the run menu. In here type `%appdata%` and press enter. This will bring up your appdata folder. Open the `.minecraft` folder. Inside you will see a folder called `resource packs`. Open that folder and place in the `.zip` files. Then when you open your game. In the main menu you will see options. Click this and then click Resource packs. Click the arrow over both resource packs to move them to the right side where they will automatically be read as needed.
+
 
 Download:
 ------
 * Quality Armor Resource Pack
 
-[Download](https://github.com/MrGalaxy/Iguana-Gaming-Resource-pack/releases/download/1.0/QualityArmoryV2.0.2.zip)
+- [Download](https://github.com/MrGalaxy/Iguana-Gaming-Resource-pack/releases/download/1.0/QualityArmoryV2.0.2.zip)
 
 * Magic Resource Pack 
 
-[Download](https://github.com/MrGalaxy/Iguana-Gaming-Resource-pack/releases/download/1.0/Magic-RP-8-1.zip)
+- [Download](https://github.com/MrGalaxy/Iguana-Gaming-Resource-pack/releases/download/1.0/Magic-RP-8-1.zip)
 
 ## Credits
 
