@@ -25,7 +25,7 @@ Resource Pack:
 
 * Clarity Resource Pack 
 
-  - We recamend foir the most optimle expereanse to use the Clarity Resource Pack.
+  - we recommend for the most optimal experience to use the Clarity Resource Pack.
   - [Clarity Resource Pack](http://www.9minecraft.net/clarity-resource-pack/)
 
 
