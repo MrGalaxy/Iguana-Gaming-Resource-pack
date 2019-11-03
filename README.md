@@ -20,6 +20,15 @@ Download:
 
   - [Download Magic](https://github.com/MrGalaxy/Iguana-Gaming-Resource-pack/releases/download/1.0/Magic-RP-8-1.zip)
 
+Resource Pack:
+------
+
+* Clarity Resource Pack 
+
+  - We recamend foir the most optimle expereanse to use the Clarity Resource Pack.
+  - [Clarity Resource Pack](http://www.9minecraft.net/clarity-resource-pack/)
+
+
 ## Credits
 
 * Magic Resource Pack
